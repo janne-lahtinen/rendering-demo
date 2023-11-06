@@ -1,3 +1,10 @@
+# Exploring next.js rendering strategies
+
+- Static Site Generation (SSG)
+- Server-Side Rendering (SSR)
+- Incremental Static Regeneration (ISR)
+- Client Side Rendering (CSR)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
